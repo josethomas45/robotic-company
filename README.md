@@ -10,6 +10,13 @@ This repository contains the **frontend implementation for a company specializin
 - **User Interaction**: Features such as product filtering, search functionality, and user reviews.
 - **Contact and Support**: Information on how to contact the company for inquiries or support.
 
+
+---
+
+## Project Background
+
+This project was developed as part of my work during the **State Web Designing Competition 2018**. It aimed to showcase the capabilities of modern web design and to provide a practical solution for a company selling robotic product.
+
 ---
 
 ## Folder Structure
